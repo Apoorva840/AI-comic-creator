@@ -1,4 +1,5 @@
 AI Comic Creator: Narrative Automation for Technical Docs
+
 The Problem: Dense technical documents (like the included Computer_Vision_Sample_4Pages.pdf) are hard to digest.
 
 The Solution: An end-to-end multimodal AI application that autonomously converts complex technical content into visual, layout-aware comic formats.
