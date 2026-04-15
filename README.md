@@ -11,4 +11,5 @@ AI Models: Groq (Llama 3) for narrative logic and Hugging Face Vision APIs for i
 🚀 Project DeliverablesSource Code: api_merge.py — Custom Python logic for multimodal assembly.
 
 AI Generated Output: Computer_Vision_Sample_4Pages.pdf.
+
 AI Generated Output: Final_Comic_Dynamic_Layout.pdf.
